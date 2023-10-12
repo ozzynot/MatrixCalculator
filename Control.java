@@ -1,6 +1,6 @@
 /*
  * Fall 2023 COSC 20203
- * @author: Oscar Arenas
+ * @author: Ozzy
  * Lab 1
  */
 
